@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run: UniversityERPApp",
+            "request": "launch",
+            "mainClass": "login.UniversityERPApp",
+            "classPaths": [
+                "${workspaceFolder}/lib/sqlite-jdbc-3.45.1.0.jar",
+                "${workspaceFolder}/lib/slf4j-api-2.0.9.jar",
+                "${workspaceFolder}/lib/slf4j-simple-2.0.9.jar",
+                "${workspaceFolder}"
+            ],
+            "modulePaths": [],
+            "args": "",
+            "vmArgs": "",
+            "console": "internalConsole"
+        }
+    ]
+}
+

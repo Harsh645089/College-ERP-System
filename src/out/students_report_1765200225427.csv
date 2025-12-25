@@ -1,0 +1,13 @@
+StudentID,Name,Email,Section,Status
+"2024235","harsh","harsh24235@iiitd.ac.in","A","Active"
+"2024240","Aditya Singh","aditya24240@iiitd.ac.in","B","Active"
+"2024241","Priya Sharma","priya24241@iiitd.ac.in","A","Active"
+"2024242","Rahul Kumar","rahul24242@iiitd.ac.in","B","Active"
+"2024243","Neha Patel","neha24243@iiitd.ac.in","B","Active"
+"2024244","Vikram Gupta","vikram24244@iiitd.ac.in","A","Active"
+"2024245","Anjali Desai","anjali24245@iiitd.ac.in","B","Active"
+"2024246","Arjun Singh","arjun24246@iiitd.ac.in","A","Active"
+"2024247","Divya Nair","divya24247@iiitd.ac.in","A","Active"
+"2024248","Ravi Patel","ravi24248@iiitd.ac.in","B","Active"
+"2024249","Sana Khan","sana24249@iiitd.ac.in","B","Active"
+"2024999","harsh","harsh24235@iiid.ac.in","A","Active"
