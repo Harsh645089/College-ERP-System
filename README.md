@@ -177,6 +177,13 @@ The project is built keeping **real-world ERP design principles** in mind.
 * Clean code structure and version control practices
   
 ---
+## 📹 Video Demonstration
+
+A short video demonstrating the working and flow of the College ERP System, including login, role-based access, course management, enrollment, and grading.
+
+▶️ **Project Demo Video:**  
+[Click here to watch the demo](https://drive.google.com/drive/u/1/folders/1FX8lADooyTlD7xPpJc1_K2lTyi27RSb9?ths=true)
+
 
 ## 👤 Author
 
